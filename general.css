@@ -88,7 +88,7 @@ p {
 }
 
 figure {
-    width: 25%;
+    width: 40%;
     align-items: center;
      display: block;
     margin-left: auto;
@@ -137,6 +137,8 @@ IMG.image {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 4rem;
+    
 }
 
 h2 {
