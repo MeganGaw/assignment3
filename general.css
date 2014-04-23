@@ -35,6 +35,8 @@ header {
 
 body { 
     background-color: #EBED7F;
+    margin: 0;
+    padding: 0;
 }
 
 .logo {
@@ -72,12 +74,18 @@ body {
     font-size:1.25rem;
     text-decoration:none;
 }
+
+.billboard {
+    background-image: url(../images/dress-page1.jpg);
+    overflow: hidden;
+}
+
 h1 {
     font-size: 3rem;
     color: white;
     text-align: center;
     background-color: #823E31;
-    height: 4rem;
+    margin: 6rem 0;
 }
 p {
     font-size: 1rem;
