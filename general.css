@@ -74,8 +74,10 @@ body {
 }
 h1 {
     font-size: 3rem;
-    color: black;
+    color: white;
     text-align: center;
+    background-color: #823E31;
+    height: 4rem;
 }
 p {
     font-size: 1rem;
@@ -84,7 +86,7 @@ p {
 }
 
 .image {
-    width: 50%;
+    width: 100%;
 }
 
 figure {
@@ -131,6 +133,7 @@ figure {
 
 hr {
    color: black;
+    border: .25rem solid #823E31;
 }
  
 IMG.image {
