@@ -76,8 +76,9 @@ body {
 }
 
 .billboard {
-    background-image: url(../images/dress-page1.jpg);
+    background-image: url(../images/diy-string-heart-01.jpg);
     overflow: hidden;
+    width: 100%;
 }
 
 h1 {
@@ -157,6 +158,8 @@ IMG.image {
 h2 {
     text-align: center;
     font-size: 2rem;
+    background-color: #823E31;
+    color: white;
 }
     
 
